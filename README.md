@@ -5,6 +5,6 @@ for [Effective Java (3rd Edition) by Joshua Bloch](https://www.amazon.com/Effect
 I try out and implement
 its code examples.
 
-| Chapter                               | Project                                                    |
-|---------------------------------------|------------------------------------------------------------|
-| *2* - Creating and Destroying Objects | [creating-destroying-objects](creating-destroying-objects) |
+| Chapter Number | Chapter Title                   | Project                                                    |
+|----------------|---------------------------------|------------------------------------------------------------|
+| 2              | Creating and Destroying Objects | [creating-destroying-objects](creating-destroying-objects) |
