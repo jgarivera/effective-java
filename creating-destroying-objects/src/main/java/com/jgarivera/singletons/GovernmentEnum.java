@@ -1,4 +1,4 @@
-package com.jgarivera.singleton;
+package com.jgarivera.singletons;
 
 enum GovernmentEnum {
     INSTANCE;

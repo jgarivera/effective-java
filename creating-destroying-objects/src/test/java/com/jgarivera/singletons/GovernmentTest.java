@@ -1,4 +1,4 @@
-package com.jgarivera.singleton;
+package com.jgarivera.singletons;
 
 import org.junit.jupiter.api.Test;
 
